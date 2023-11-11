@@ -1,6 +1,19 @@
-<h1 align="center">Hi 👋, I'm Amalendu Manoj</h1>
-<h3 align="center">Web developer,Data science,Python</h3>
-
+<h1 align='center'>
+  Hi there 👋 I'm Amalendu. 👨‍💻
+</h1>
+<p align='center'>
+  Web Developer.
+</p>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/amalendumanoj/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/amalendumanoj">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 - 🌱 I’m currently learning **Next js**
 
 <h3 align="left">Connect with me:</h3>
