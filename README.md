@@ -2,7 +2,7 @@
   Hi there 👋 I'm Amalendu. 👨‍💻
 </h1>
 <p align='center'>
-  Web Developer.
+  Full stack Developer,web3 developer
 </p>
 <p align='center'>
   
