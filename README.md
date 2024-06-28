@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 </p>
-- 🌱 I’m currently learning **Next js,Web3**
+- 🌱 I’m currently learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
